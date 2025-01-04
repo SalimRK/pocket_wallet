@@ -1,4 +1,4 @@
-# pocket_wallets
+# pocket_wallet
 #### A Flutter project for my flutter cource 
 
 Pocket Wallets is a Flutter application designed to help you manage your transactions efficiently. It allows you to add, view, sort, and delete transactions with ease.
