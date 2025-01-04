@@ -1,2 +1,3 @@
-# pocket_wallet
-for flutter cource 
+# pocket_wallets
+
+A new Flutter project.
